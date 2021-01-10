@@ -6,7 +6,7 @@ void logicNgenyek();
 
 int main() {
 
-	ngenyek();
+    ngenyek();
     logicNgenyek();
     
     return 0;
