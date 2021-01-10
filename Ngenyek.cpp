@@ -70,7 +70,7 @@ void logicNgenyek() {
         printf("Apakah anda ingin mencoba lagi? [y/n]: ");
         scanf("%c", &choice);
         getchar();
-		if(choice == 'y' || choice == 'Y') {
+	if(choice == 'y' || choice == 'Y') {
             flag = false;
         }
     }
