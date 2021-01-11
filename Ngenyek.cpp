@@ -53,7 +53,7 @@ void ngenyek() {
 
 void logicNgenyek() {
     bool flag = true;
-    while(true) {
+    while(flag) {
         printf("Masukkan kata: ");
         char kata[1001], choice;
         scanf("%[^\n]", kata);
